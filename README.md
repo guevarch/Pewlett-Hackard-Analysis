@@ -13,6 +13,5 @@ Results
   - ![image](https://user-images.githubusercontent.com/107594143/183230238-4d840ff9-510a-4953-875d-c48e85caa8c3.png)
   - An interesting stat to track is which department will be most affected by the "silver tsumani", and from the table above it appears to be development and production.
   
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Conclusion
+  - The purpose of the analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program and summarize analysis of the impending "silver tsunami" as many employees near retirement age. From the analysis, we can conclude that there is a large cohort of retirees that hold senior roles and positions with in the company. The most impacted departments would be developement and production. There needs to be a hiring/promotion rate of 72k employees over a span of time to reduce the imapct of the retiring cohort. There also seems to be a lack of qualified mentors to usher the new wave of experienced employees. If no further action is taken, this would impact the expertise, experience and the leadership within the company.
